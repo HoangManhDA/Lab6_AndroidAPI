@@ -1,0 +1,43 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/activity_dang_ki.xml" value="0.17401215805471124" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/activity_dang_nhap.xml" value="0.17401215805471124" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/activity_main.xml" value="0.17401215805471124" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/activity_step_dang_ki.xml" value="0.33" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/header_nav.xml" value="0.33" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/layout_fragment_hd.xml" value="0.25" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/layout_fragment_kh.xml" value="0.371875" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/layout_fragment_nv.xml" value="0.3111413043478261" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/layout_fragment_sp.xml" value="0.25" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/row_hoadon.xml" value="0.371875" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/row_kh.xml" value="0.33" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/row_loaisp.xml" value="0.3188405797101449" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/row_nv.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/row_sanpham.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/select_kh.xml" value="0.371875" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/select_loaisp.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/select_table_kh.xml" value="0.2506265664160401" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/select_table_maloai.xml" value="0.3129528985507246" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/select_table_sp.xml" value="0.371875" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/show_add_hd.xml" value="0.3184713375796178" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/show_add_kh.xml" value="0.25" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/show_add_sp.xml" value="0.29411764705882354" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/show_hoadon.xml" value="0.5" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/show_kh.xml" value="0.371875" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/show_nv.xml" value="0.3111413043478261" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/layout/show_sp.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/menu/menu_nhanvien_quanly.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/menu/menu_quanly.xml" value="0.371875" />
+        <entry key="..\:/Users/mainn/AndroidStudioProjects/DuAn1_Pro1121_Nhom2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.36574074074074076" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
